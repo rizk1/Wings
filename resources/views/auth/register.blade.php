@@ -29,7 +29,7 @@
 
             <div class="form-outline mb-4">
                 <label class="form-label" for="formPasswordConfirm">Password Confirmation</label>
-                <input type="password" name="confirmation" id="formPasswordConfirm" class="form-control" />
+                <input type="password" name="password_confirmation" id="formPasswordConfirm" class="form-control" />
             </div>
         
             <!-- Submit button -->
